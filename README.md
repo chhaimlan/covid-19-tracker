@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+# this tracking covid used api key
+
+# deploy hosting
+
+https://covid-19-tracker-4fdb9.web.app/
+
+# hosting with ngrok
+
+http://8075-36-37-140-112.ngrok.io
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
